@@ -1,6 +1,9 @@
 # Vivek Kamal 👋
 
-[![Linkedin logo](https://th.bing.com/th/id/R.4d2699e7980f3031fa98c92b29c9b79erik=kwdUaz6%2fTtcKLw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_24780.png&ehk=aK5L%2bkswVzBNSBy2%2bsJfGnJUkVQQj3hJ9FT1E41PlpE%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/vivek-kumar-kamal-ba1408210/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)]([https://www.linkedin.com/in/rakibul-islam-raju/](https://www.linkedin.com/in/vivek-kumar-kamal-ba1408210/))
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:vivekkumar565950@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+
 [![An image of @vivekkumarkamal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekkumarkamal)](https://holopin.io/@vivekkumarkamal)
 
 <!--
