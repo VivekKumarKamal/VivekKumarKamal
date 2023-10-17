@@ -1,5 +1,6 @@
 # Vivek Kamal 👋
 
+[![Linkedin logo](https://th.bing.com/th/id/R.4d2699e7980f3031fa98c92b29c9b79erik=kwdUaz6%2fTtcKLw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_24780.png&ehk=aK5L%2bkswVzBNSBy2%2bsJfGnJUkVQQj3hJ9FT1E41PlpE%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/vivek-kumar-kamal-ba1408210/)
 [![An image of @vivekkumarkamal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekkumarkamal)](https://holopin.io/@vivekkumarkamal)
 
 <!--
