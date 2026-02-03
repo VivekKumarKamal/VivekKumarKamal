@@ -1,9 +1,9 @@
 <div align="center">
 <h1> Vivek Kamal 👋</h1>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vivek-kumar-kamal-ba1408210/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vivekkumarkamal/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=fff)](mailto:vivekkumar565950@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![CodeForces](https://img.shields.io/badge/%20-CodeForces-black?color=14171A&labelColor=212121&logo=Codeforces&logoColor=fff)](https://codeforces.com/profile/vivekkamal)
+[![Coding Profile](https://img.shields.io/badge/%20-CodeForces-black?color=14171A&labelColor=212121&logo=Codeforces&logoColor=fff)](https://codolio.com/profile/VivekKumarKamal)
 [![IIT Madras](https://img.shields.io/badge/%20-IIT%20Madras-black?color=14171&logo=IIT&logoColor=fff)](https://app.onlinedegree.iitm.ac.in/student/21F3002412)
 
 
